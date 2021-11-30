@@ -1,0 +1,1 @@
+SELECT * FROM `SQL Data Model`.`dbo.fans`;
